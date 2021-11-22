@@ -1,4 +1,4 @@
-# 404-Project-BE
+# Plant-Recognition-Project-BE
 
 Welcome to Team 404's Back-End repository for our team's end of course project.
 We are avid plant enthusiasts and wanted to create an application for mobile which could aid in the plant maintenance,
