@@ -12,6 +12,7 @@ For the back-end development of our app we used dynamo-DB as it allowed a more f
 ## Front-End
 
 The Front-End was built using React Native, Expo, Axios and AWS Amplify.
+< br/>
 Link for Front-End:
 [Front-End Repository](https://github.com/Elbeera/Plant-Manager-App-FE)
 
