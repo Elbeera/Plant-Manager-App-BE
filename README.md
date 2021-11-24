@@ -1,4 +1,4 @@
-# Plant-Recognition-Project-BE
+# Plant-Manager-App-BE
 
 Welcome to Team 404's Back-End repository for our team's end of course project.
 We are avid plant enthusiasts and wanted to create an application for mobile which could aid in the plant maintenance,
@@ -9,7 +9,10 @@ Our back-end api, built using AWS then will match the most likely plant to our d
 
 For the back-end development of our app we used dynamo-DB as it allowed a more flexible data structure which led to using further amazon web services including API Gateway to host and set up our API endpoints, Cognito for user verification which is directly linked to our user database, Amplify to link our front-end user creation to Cognito , AWS S3 allowed us the ability to store user-uploaded images and finally AWS Lambda functions to trigger interactions between AWS services.
 
-## Front-End
+**Project Tech Stack:**
+![Alt text](./images/TechStack.png)
+
+### Front-End
 
 The Front-End was built using React Native, Expo, Axios and AWS Amplify.
 <br />
